@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_EnvironmentPrefabPaths:
   - Assets/PabloAguirrezabal/Prefabs/Copia_DefaultSimulationEnvironment.prefab
+  - Assets/PabloAguirrezabal/Prefabs/copia_Factory_180ftx101ft 1.prefab
+  - Assets/PabloAguirrezabal/Prefabs/pablo_Factory_180ftx101ft 2.prefab
+  - Assets/PabloAguirrezabal/Prefabs/PruebaFactory_180ftx101ft 1.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Backyard_45ftx40ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Backyard_55ftx40ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Bedroom_12ftx12ft.prefab
